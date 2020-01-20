@@ -1,5 +1,4 @@
-# Android Runner
-## Cross reference readme with properties available in config files
+# Android Runner - cross reference readme with properties available in config files
 
 **This tool runs with Python 3.7**
 
