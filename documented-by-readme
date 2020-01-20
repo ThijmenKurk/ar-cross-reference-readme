@@ -1,0 +1,37 @@
+adb_path
+monkeyrunner_path
+systrace_path
+powerprofile_path
+type
+replications
+randomization
+duration
+time_between_run
+devices
+    root_disable_charging
+    charging_disabled_value
+    usb_charging_disabled_file
+paths
+apps
+browsers
+profilers
+    sample_interval
+    data_points
+    subject_aggregation
+    experiment_aggregation
+    cleanup
+    subject_aggregation
+    experiment_aggregation
+    cleanup
+scripts
+    before_experiment
+    before_run
+    after_launch
+    interaction
+    after_run
+    after_experiment
+    interaction
+        timeout
+        path
+    logcat_regex
+    before_close
